@@ -82,12 +82,4 @@ this.performSearch("avengers")
 
 }
 
-
-
-
-//function App() {
-
-  
-// }
-
 export default App;
